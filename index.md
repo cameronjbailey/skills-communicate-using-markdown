@@ -10,3 +10,7 @@ This is fairly straigtforward.
 let hello = 'Hello, world!';
 console.log(hello);
 ```
+
+- [ ] Complete this GitHub skill guide
+- [ ] Dance the night away
+
